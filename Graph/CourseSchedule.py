@@ -48,3 +48,6 @@ class Solution:
                 if res == False:
                     return res
         return True
+
+
+#Approach 2 : Topological Sort - check Course Schedule 2
